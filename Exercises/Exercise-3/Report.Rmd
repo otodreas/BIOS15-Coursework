@@ -1,0 +1,9 @@
+# Exercise 3 Report
+
+### *Oliver E. Todreas* | *2025-11-14*
+
+## Introduction
+
+```{r}
+library(ggplot2)
+```
