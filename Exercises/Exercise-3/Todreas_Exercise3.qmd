@@ -1,0 +1,29 @@
+# Exercise 3 Report
+
+### *Oliver E. Todreas* \| *2025-11-14*
+
+## Introduction
+
+## Statistical Analysis
+
+## Results
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+Table
+
+## Conclusions
+
+## Code
+
+```{r 4.5.2}
+library("tidyverse")
+```
+
+```{r 4.5.2}
+ggplot()
+```
